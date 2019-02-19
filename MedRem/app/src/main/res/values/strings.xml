@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">İlaç Hatırlatıcı</string>
+    <string name="no_cardetails">İlaç eklemek için butona basınız.</string>
+    <string name="title_activity_add_reminder">İlaç Ekle</string>
+    <string name="title_activity_edit_reminder">İlacı Düzenle</string>
+    <string name="title_activity_licenses">Licenses</string>
+
+    <string name="add_reminder">İlaç bilgisi giriniz.</string>
+    <string name="details">Detaylar</string>
+    <string name="date">Tarih</string>
+    <string name="time">Saat</string>
+    <string name="repeat">Tekrar</string>
+    <string name="repeat_off">Kapalı</string>
+    <string name="repeat_no">Tekrar Aralığı</string>
+    <string name="repeat_type">Tekrar Etme Tipi</string>
+
+    <string name="action_discard_reminder">İptal Et</string>
+    <string name="action_save_reminder">Kaydet</string>
+
+    <string name="editor_activity_title_new_reminder">Detay Ekle</string>
+    <string name="editor_activity_title_edit_reminder">Düzenle</string>
+    <string name="unsaved_changes_dialog_msg">Düzenleme iptal edilsin mi?</string>
+    <string name="discard">İptal Et</string>
+
+    <string name="keep_editing">Devam Et</string>
+    <string name="delete_dialog_msg">İlacı Sil</string>
+
+    <string name="delete">Sil</string>
+
+    <string name="cancel">İptal</string>
+    <string name="editor_delete_reminder_successful">İlaç silindi.</string>
+
+    <string name="editor_delete_reminder_failed">Silerken hata oluştu.</string>
+
+    <string name="editor_insert_reminder_successful">İlaç kaydedildi.</string>
+
+    <string name="editor_insert_reminder_failed">Kaydederken hata oluştu.</string>
+
+    <string name="editor_update_reminder_successful">İlaç güncellendi.</string>
+
+    <string name="editor_update_reminder_failed">Güncellerken hata oluştu.</string>
+
+    <string name="reminder_title">İlacınızın zamanı gelmiştir.</string>
+    <string name="acTok">Aç - Tok</string>
+</resources>

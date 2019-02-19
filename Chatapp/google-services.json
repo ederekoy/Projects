@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "253470570700",
+    "firebase_url": "https://mrchat-e5b2e.firebaseio.com",
+    "project_id": "mrchat-e5b2e",
+    "storage_bucket": "mrchat-e5b2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253470570700:android:ae1faa4fc80c25cf",
+        "android_client_info": {
+          "package_name": "com.example.mrc.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253470570700-2e62nf791j1lbqjmvd050ocrgsdocknh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6yveHm56Xq4rEZpvRRdDbb6_pX81pC14"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
